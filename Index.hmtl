@@ -14,15 +14,10 @@
         <h1>Your Website Name</h1>
     </header>
 
-    <section id="home">
-        <h2>Welcome to Your Website!</h2>
-        <p>This is the home section of your website. Customize this content based on your needs.</p>
-    </section>
-
     <!-- More sections for About, Services, Contact, etc. -->
 
     <footer>
-        <p>&copy; 2023 Your Website Name. All rights reserved.</p>
+        <p>Your Footer Text Goes Here</p>
     </footer>
 </body>
 
